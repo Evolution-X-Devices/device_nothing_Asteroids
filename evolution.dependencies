@@ -1,0 +1,49 @@
+[
+    {
+        "repository": "NullDebris/android_hardware_nothing",
+        "target_path": "hardware/nothing",
+        "remote": "github-non-los",
+        "branch": "lineage-24.0"
+    },
+    {
+        "repository": "NullDebris/kernel_nothing_sm7635",
+        "target_path": "kernel/nothing/sm7635",
+        "remote": "github-non-los",
+        "branch": "6.1/lineage-24.0"
+    },
+    {
+        "repository": "NullDebris/kernel_nothing_sm7635-modules",
+        "target_path": "kernel/nothing/sm7635-modules",
+        "remote": "github-non-los",
+        "branch": "6.1/lineage-24.0"
+    },
+    {
+        "repository": "NullDebris/kernel_nothing_sm7635-devicetrees",
+        "target_path": "kernel/nothing/sm7635-devicetrees",
+        "remote": "github-non-los",
+        "branch": "6.1/lineage-23.1"
+    },
+    {
+        "repository": "NullDebris/proprietary_vendor_nothing_asteroids",
+        "target_path": "vendor/nothing/Asteroids",
+        "remote": "gitlab",
+        "branch": "cnb"
+    },
+    {
+        "repository": "NullDebris/hardware_dolby",
+        "target_path": "hardware/dolby",
+        "remote": "github-non-los",
+        "branch": "lunaris"
+    },
+    {
+        "repository": "NullDebris/packages_apps_GlyphAdapter",
+        "target_path": "packages/apps/GlyphAdapter",
+        "remote": "github-non-los",
+        "branch": "15"
+    },
+    {
+        "repository": "packages_apps_ParanoidGlyph",
+        "target_path": "packages/apps/ParanoidGlyph",
+        "branch": "bka"
+    }
+]
