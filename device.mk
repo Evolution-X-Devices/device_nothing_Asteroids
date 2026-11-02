@@ -4,7 +4,7 @@
 #
 
 $(call inherit-product, hardware/qcom-caf/common/common.mk)
-$(call inherit-product, vendor/nothing/asteroids/asteroids-vendor.mk)
+$(call inherit-product, vendor/nothing/Asteroids/asteroids-vendor.mk)
 $(call inherit-product-if-exists, hardware/dolby/dolby.mk)
 
 # A/B

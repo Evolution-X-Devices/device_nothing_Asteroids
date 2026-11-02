@@ -137,7 +137,7 @@ blob_fixups: blob_fixups_user_type = {
 }  # fmt: skip
 
 module = ExtractUtilsModule(
-    'asteroids',
+    'Asteroids',
     'nothing',
     blob_fixups=blob_fixups,
     lib_fixups=lib_fixups,

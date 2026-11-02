@@ -6,14 +6,14 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit_only.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-$(call inherit-product, device/nothing/asteroids/device.mk)
+$(call inherit-product, device/nothing/Asteroids/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 PRODUCT_BRAND := Nothing
-PRODUCT_DEVICE := asteroids
+PRODUCT_DEVICE := Asteroids
 PRODUCT_MANUFACTURER := Nothing
 PRODUCT_MODEL := A059
-PRODUCT_NAME := lineage_asteroids
+PRODUCT_NAME := lineage_Asteroids
 
 PRODUCT_GMS_CLIENTID_BASE := android-nothing
 
