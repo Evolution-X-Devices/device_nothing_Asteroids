@@ -488,9 +488,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     qcrilNrDb_vendor
 
-PRODUCT_PACKAGES += \
-    NothingNrEnabler
-
 PRODUCT_BOOT_JARS += \
     nt-telephony-interface \
     telephony-ext
